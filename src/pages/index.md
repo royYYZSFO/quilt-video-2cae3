@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Authentic group videos made easy
     subtitle: >-
-      Capture and create authentic video montages from people around the world
-      for recruiting, onboarding and internal comms
+      Capture and deliver authentic, personal video montages with any smartphone
+      or web browser
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
