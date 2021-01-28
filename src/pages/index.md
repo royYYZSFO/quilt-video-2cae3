@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Authentic group videos made easy
     subtitle: >-
-      Thousands of people use Quilt to create authentic video montages for
-      birthdays, weddings, hiring and onboarding, internal comms and more
+      Capture and create authentic video montages from people around the world
+      for recruiting, onboarding and internal comms
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
