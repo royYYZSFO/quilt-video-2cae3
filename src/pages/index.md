@@ -6,9 +6,18 @@ sections:
     subtitle: >-
       Capture and deliver authentic, personal video montages with any smartphone
       or web browser
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Step 1: Create a Quilt video project
+
+
+      Step 2: Send your Quilt link to anyone you'd like to record a video
+
+
+      Step 3: Anyone with the link can record and upload a video to the project
+      page from their smartphone
+
+
+      Step 4: Publish your video!
     actions:
       - label: Try Free
         url: /pricing
