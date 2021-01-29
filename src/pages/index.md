@@ -6,8 +6,7 @@ sections:
     subtitle: >-
       Capture and deliver authentic, personal video montages with any smartphone
       or web browser
-    content: |
-      Quilt your first video in minutes
+    content: ''
     actions:
       - label: Get Started!
         url: /pricing
