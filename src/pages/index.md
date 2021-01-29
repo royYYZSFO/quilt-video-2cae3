@@ -8,7 +8,7 @@ sections:
       or web browser
     content: ''
     actions:
-      - label: Start a Quilt
+      - label: START A QUILT
         url: /pricing
         style: primary
       - label: Learn More
