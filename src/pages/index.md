@@ -7,13 +7,7 @@ sections:
       Capture and deliver authentic, personal video montages with any smartphone
       or web browser
     content: |
-      Step 1: Create a Quilt video project
-
-      Step 2: Share your Quilt link with friends, colleagues or customers
-
-      Step 3: Record and upload videos from any smartphone
-
-      Step 4: Publish your video!
+      Quilt your first video in minutes
     actions:
       - label: Get Started!
         url: /pricing
