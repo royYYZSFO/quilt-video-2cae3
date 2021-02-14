@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Authentic group videos made easy
+    title: I'm changing actual code here
     subtitle: >-
       Capture and deliver authentic, personal video montages with any smartphone
       or web browser
